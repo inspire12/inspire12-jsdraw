@@ -1,0 +1,23 @@
+{
+  "name": "inspire12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inspire12/inspire12-jsdraw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inspire12/inspire12-jsdraw/issues"
+  },
+  "homepage": "https://github.com/inspire12/inspire12-jsdraw#readme",
+  "devDependencies": {
+    "node-sass": "^9.0.0",
+    "sass-loader": "^13.3.2"
+  }
+}
